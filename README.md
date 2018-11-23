@@ -6,7 +6,7 @@ https://msin636project1.herokuapp.com/
 <img src="./screenshots/home.jpg">
 
 <h2>service Page </h2>
-<img src="./screenshots/service.jpg">
+<img src="./screenshots/services.jpg">
 
 <h2>contact form Page </h2>
 <img src="./screenshots/contact.jpg">
