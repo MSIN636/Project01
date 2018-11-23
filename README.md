@@ -1,4 +1,4 @@
-<h1>Project 1</h1>
+<h1><center>Project 1</center></h1>
 For project Demo click on the following link 
 https://msin636project1.herokuapp.com/
 
